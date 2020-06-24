@@ -9,8 +9,9 @@
 }
 
 .sb-slider li {
-	margin: 0;
-	padding: 0;
+	/* margin: auto;
+	max-width: 100%;
+	padding: 0; */
 	display: none;
 }
 
